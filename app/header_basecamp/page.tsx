@@ -3,9 +3,9 @@
 import { NextPage } from 'next';
 import Link from 'next/link';
 
-const HomePage: NextPage = () => {
+const Header: NextPage = () => {
   return (
-    <div className="min-h-screen bg-gray-100">
+    <div className=" bg-gray-100">
       <div className="bg-white p-4 shadow-md">
         <div className="container mx-auto flex justify-between items-center">
           <div className="text-xl font-semibold">
@@ -32,4 +32,4 @@ const HomePage: NextPage = () => {
   );
 };
 
-export default HomePage;
+export default Header;
