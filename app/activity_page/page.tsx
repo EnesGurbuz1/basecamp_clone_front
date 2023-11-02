@@ -1,5 +1,5 @@
 import React from 'react';
-import './index_style.css'; 
+
 
 const ActivityPage = () => {
   return (

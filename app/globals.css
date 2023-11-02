@@ -19,3 +19,21 @@
 body {
   background-color: #fffcf9;
 }
+
+
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.list-disc {
+  padding-left: 1rem;
+}
+
+.list-disc li {
+  margin-bottom: 0.5rem;
+}
