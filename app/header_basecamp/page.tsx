@@ -5,8 +5,8 @@ import Link from 'next/link';
 
 const Header: NextPage = () => {
   return (
-    <div className=" bg-gray-100">
-      <div className="bg-white p-4 shadow-md">
+    <div className="">
+      <div className="bg-transparent p-4 ">
         <div className="container mx-auto flex justify-between items-center">
           <div className="text-xl font-semibold">
             <Link href="/">Basecamp</Link>
