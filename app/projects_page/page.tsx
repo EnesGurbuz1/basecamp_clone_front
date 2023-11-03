@@ -1,6 +1,5 @@
 import React from 'react';
 import Container from './container';
-import "./index_style.css"// İçe aktarma
 
 function Page() {
   return (
