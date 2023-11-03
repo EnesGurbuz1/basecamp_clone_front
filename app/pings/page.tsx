@@ -3,7 +3,7 @@ import React from 'react';
 
 const PrivateChat: React.FC = () => {
   return (
-    <div className="min-h-screen bg-gray-100 flex flex-col justify-center items-center p-4 sm:p-8">
+    <div className="min-h-screen body flex flex-col justify-center items-center p-4 sm:p-8">
       <div className="w-full max-w-xl bg-white p-8 rounded-lg shadow-md">
 
         <Input 
