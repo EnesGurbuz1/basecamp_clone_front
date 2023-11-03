@@ -3,24 +3,8 @@ import React from 'react';
 
 const MainPage: React.FC = () => {
     return (
-        <div className="min-h-screen bg-gradient-to-r from-indigo-500 to-purple-600 text-white">
-            <header className="bg-indigo-700 p-4 shadow-md">
-                <div className="container mx-auto flex justify-between items-center">
-                    <div className="flex items-center">
-                        <img src="/path-to-your-logo.png" alt="Project Logo" className="w-12 h-12 mr-3" />
-                        <h1 className="text-3xl font-bold">Project Name</h1>
-                    </div>
-                    <nav className="flex items-center">
-                        {['Dashboard', 'Projects', 'Tasks', 'Activities', 'Teams', 'Settings'].map((item) => (
-                            <a key={item} href="#" className="mx-3 hover:text-indigo-300">
-                                {item}
-                            </a>
-                        ))}
-                        <img src="/path-to-profile-pic.jpg" alt="Profile" className="w-10 h-10 rounded-full ml-4" />
-                    </nav>
-                </div>
-            </header>
-            <main className="container mx-auto mt-10 px-4">
+        <div className="min-h-screen body">
+            <main className="container mt-4 sm:mx-auto sm:w-full sm:max-w-6xl bg-white p-8 shadow-lg rounded-lg h-full ">
                 <h2 className="text-4xl font-semibold mb-6">Welcome Back, [User Name]!</h2>
                 <section className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
                     <div className="bg-white p-6 rounded-lg shadow-md text-black">
@@ -58,7 +42,7 @@ const MainPage: React.FC = () => {
                     </ul>
                 </section>
             </main>
-            <footer className="bg-indigo-700 p-4 mt-6">
+            <footer className="-700 p-4 mt-6">
                 <div className="container mx-auto text-center">
                     <p>&copy; 2023 Project Name. All rights reserved.</p>
                 </div>
