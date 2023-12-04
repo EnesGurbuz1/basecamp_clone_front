@@ -257,7 +257,7 @@ const ActivityPage = () => {
               <div className="flex items-center">
               <div className="icon bg-red-400 p-4 rounded-full mr-4 text-xl font-bold text-white">MY</div>
                 <div>
-                  <span>This website page has been validated by Murat Yanasoglu</span>
+                  <span>This website page has been validated by Murat Yanasoglu.</span>
                   <div className="flex items-center mt-2">
                     <span className="text-sm mr-2">Checkbox</span>
                     <input type="checkbox" />

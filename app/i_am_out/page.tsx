@@ -67,7 +67,7 @@ const OutOfOfficePage: React.FC = () => {
 
         <div className="text-sm mt-4">
           <h2 className="font-bold mb-2">Is there an auto-responder while out?</h2>
-          <p>Out of Office is NOT an auto-responder. OOO is a visual way to communicate to other people that you're out, and when you'll be back.</p>
+          <p>Out of Office is NOT an auto-responder. OOO is a visual way to communicate to other people that you're out, and when you'll be back..</p>
         </div>
       </div>
     </div>
