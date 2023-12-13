@@ -138,9 +138,9 @@ const ActivityPage = () => {
           <div className="flex items-center">
           <div className="icon bg-red-400 p-4 rounded-full mr-4 text-xl font-bold text-white">MY</div>
             <div>
-              <span>Murat Yanasoglu Have Been Checked</span>
+              <span>Murat Yanasoglu Have Been Checked.</span>
               <div className="flex items-center mt-2">
-                <span className="text-sm mr-2">Ajans Kalemler</span>
+                <span className="text-sm mr-2">Ajans Kalemler.</span>
                 <input type="checkbox" />
               </div>
             </div>

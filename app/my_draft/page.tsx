@@ -25,7 +25,7 @@ const YourDrafts = () => {
             You haven't saved any drafts yet
           </p>
           <p className="text-center text-gray-400 mt-2">
-            When you save a message or document as a draft, it'll show up here. Your drafts aren't visible to anyone else.
+            When you save a message or document as a draft, it'll show up here. Your drafts aren't visible to anyone else..
           </p>
         </div>
       </div>

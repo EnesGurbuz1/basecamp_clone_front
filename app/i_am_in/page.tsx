@@ -19,7 +19,7 @@ const OutOfOfficePage: React.FC = () => {
             </div>
             <div>
               <p className="font-semibold">Murat</p>
-              <p className="text-sm">Jr Engineer at Fırat DİKMEN</p>
+              <p className="text-sm">Jr Engineer at Fırat DİKMEN..</p>
             </div>
           </div>
           <Switch checkedChildren="I'm in" unCheckedChildren="I'm out" defaultChecked />

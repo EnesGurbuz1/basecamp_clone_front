@@ -11,7 +11,7 @@ const ActivityPage = () => {
           <h2 className="text-2xl font-semibold text-#283c46 mx-4">Color Theme</h2>
           <hr className="flex-grow border-#283c46" />
         </div>
-        <p className="text-center text-#283c46 mb-4">Choose a color for buttons, menus, and accents.</p>
+        <p className="text-center text-#283c46 mb-4">Choose a color for buttons, menus, and accents..</p>
         <div className="flex space-x-4 mb-4">
             <div className="w-10 h-10 rounded-full bg-blue-500"></div>
             <div className="w-10 h-10 rounded-full bg-black"></div>

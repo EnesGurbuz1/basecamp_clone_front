@@ -32,7 +32,7 @@ const OutOfOfficePage: React.FC = () => {
 
         {isOut && (
           <div className="bg-purple-100 p-4 rounded-md mb-4">
-            <h2 className="text-lg font-bold mb-2">I'll be Out of Office...</h2>
+            <h2 className="text-lg font-bold mb-2">I'll be Out of Office....</h2>
             <div className="flex justify-between mb-2">
               <DatePicker
                 value={startDate}

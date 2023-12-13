@@ -2,9 +2,10 @@ import React from 'react';
 
 const AssignmentsPage: React.FC = () => {
   return (
-    <div className="bg-gray-900 min-h-screen flex flex-col items-center justify-center py-10">
+    <div className="bg-white-900 min-h-screen flex flex-col items-center justify-center py-10">
       
-      <div className="bg-white w-96 p-8 rounded-lg shadow-md">
+      
+      <div className="bg-white w-full max-w-4xl h-auto min-h-[500px] p-8 rounded-lg shadow-md">
 
         <header className="mb-6">
           <h1 className="text-2xl font-semibold">Here are your assignments</h1>

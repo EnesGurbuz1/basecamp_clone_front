@@ -64,7 +64,7 @@ const Home = () => {
               className={`px-4 py-1 ${activeFilter === 'people' ? 'bg-white rounded-lg shadow' : ''}`}
               onClick={() => handleFilterClick('people')}
             >
-              Filter by people
+              Filter by people.
             </button>
           </div>
         </div>

@@ -12,7 +12,7 @@ const MuratsActivity: React.FC = () => {
             </div>
             <p className="mb-4">No activity just yet</p>
             <p className="text-center">
-              When Murat posts in Basecamp, it’ll show up here so you can keep track of their latest updates.
+              When Murat posts in Basecamp, it’ll show up here so you can keep track of their latest updates..
             </p>
           </div>
         </div>

@@ -81,7 +81,7 @@ const UpcomingDates: React.FC = () => {
       <Calendar dateCellRender={dateCellRender} headerRender={headerRender} />
       <div className="text-center my-4">
         <div className="text-lg">
-          <strong>SUN, NOV 26</strong>
+          <strong>SUN, NOV 26.</strong>
         </div>
         <p>Nothing's on the schedule</p>
       </div>
