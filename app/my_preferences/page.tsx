@@ -49,7 +49,7 @@ const ActivityPage = () => {
         </small>
         <div className="border border-gray-300 rounded p-2 mb-4 w-full">
           <select className="input input--select input--square w-full" name="person[time_zone_name]" id="person_time_zone_name">
-              {/* Burada optionlarınızı ekleyebilirsiniz. Örnek olarak birkaçını ekledim. */}
+              {/* Burada optionlarınızı ekleyebilirsiniz. Örnek olarak birkaçını ekledim.. */}
               <option value="International Date Line West">(GMT-12:00) International Date Line West</option>
               <option value="American Samoa">(GMT-11:00) American Samoa</option>
               <option value="Midway Island">(GMT-11:00) Midway Island</option>

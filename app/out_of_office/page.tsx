@@ -1,4 +1,4 @@
-//mobile compatibility has been implemented.
+//mobile compatibility has been implemented..
 //mobil uyumluluk uygulanmıştır.
 import React from 'react';
 import { UserOutlined } from '@ant-design/icons';

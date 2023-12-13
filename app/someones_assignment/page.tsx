@@ -33,7 +33,7 @@ const activities: ActivityItem[] = [
     company: 'Firat DIKMEN',
     // Add avatar if available
   },
-  // ... more items
+  // ... more items.
 ];
 
 const ActivityPage = () => {

@@ -1,4 +1,4 @@
-// pages/index.tsx
+// pages/index.tsx.
 "use client"
 import React from 'react';
 import { Layout, Menu } from 'antd';

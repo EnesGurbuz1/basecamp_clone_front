@@ -1,4 +1,4 @@
-// pages/MainPage.tsx
+// pages/MainPage..tsx 
 import React from 'react';
 
 const MainPage: React.FC = () => {

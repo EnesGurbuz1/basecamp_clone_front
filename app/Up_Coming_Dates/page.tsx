@@ -99,7 +99,7 @@ export default UpcomingDates;
 
 
 
-////Daha gelişmiş verisyonu ama basecamp sitesinden farklı
+////Daha gelişmiş verisyonu ama basecamp sitesinden farklı.
 
 
 // return (

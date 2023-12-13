@@ -68,7 +68,7 @@ const AdminPage: NextPage = () => {
                   </div>
                   <div className="flex items-center">
                     <SettingOutlined />
-                    <p className="ml-2">Cancel this account</p>
+                    <p className="ml-2">Cancel this account.</p>
                   </div>
                 </dd>
               </div>

@@ -169,7 +169,7 @@ const ActivityPage = () => {
                                 </div>
                             </div>
                         </div>
-                        {/* <!-- Right section --> */}
+                        {/* <!-- Right section .--> */}
                         <div>
                             <div className="flex flex-col items-center">
                                 <div className="flex items-center justify-end w-full mx-auto">

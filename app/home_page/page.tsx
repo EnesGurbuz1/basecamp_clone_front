@@ -10,7 +10,7 @@ const Page: React.FC = () => {
   return (
     <>
       <Head>
-        <title>ToDo List</title>
+        <title>To Do List</title>
       </Head>
       <Header />
       

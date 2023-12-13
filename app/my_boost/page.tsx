@@ -26,7 +26,7 @@ const YourBoosts: React.FC = () => {
                     </div>
                     <h2 className="text-xl font-bold mb-4">No boosts just yet</h2>
                     <p className="text-center">
-                        When you post something to Basecamp, others can send boosts (little notes of encouragement) to show they enjoyed your post.
+                        When you post something to Basecamp, others can send boosts (little notes of encouragement) to show they enjoyed your post,.
                     </p>
                 </div>
             </div>

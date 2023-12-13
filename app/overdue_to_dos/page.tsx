@@ -14,7 +14,7 @@ interface OverdueTodo {
   assignedTo: string;
 }
 
-// Example data - you would fetch this from your backend or state management store
+// Example data - you would fetch this from your backend or state management store.
 const overdueTodos: OverdueTodo[] = [
   {
     id: 1,

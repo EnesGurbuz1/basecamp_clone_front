@@ -18,7 +18,7 @@ const Bookmarks: React.FC<BookmarksProps> = () => {
                     </svg>
                     <div className="flex-1">
                         <p className="font-medium">You haven’t bookmarked anything yet</p>
-                        <p className="text-sm text-gray-500 mt-1">Hit the Bookmark option from the menu on any message, doc, to-do list, etc. to save it here.</p>
+                        <p className="text-sm text-gray-500 mt-1">Hit the Bookmark option from the menu on any message, doc, to-do list, etc. to save it here..</p>
                     </div>
                 </div>
             </div>

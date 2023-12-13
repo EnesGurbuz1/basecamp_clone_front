@@ -21,7 +21,7 @@ const PrivateChat: React.FC = () => {
 
           <div className="border-dashed border-2 border-yellow-500 p-8 rounded-lg">
             <p className="text-yellow-500 font-semibold mb-2 text-sm">
-              Pings are private chats with one or more people
+              Pings are private chats with one or more people.
             </p>
             <p className="text-gray-500 text-sm">
               Start your first conversation by typing someone’s name.

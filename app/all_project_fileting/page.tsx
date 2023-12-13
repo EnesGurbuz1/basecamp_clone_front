@@ -11,7 +11,7 @@ const Page: React.FC = () => {
       btn.classList.remove('bg-green-500', 'text-white');
     });
 
-    // Add active class to the clicked button
+    // Add active class to the clicked button.
     e.currentTarget.classList.add('bg-green-500', 'text-white');
   };
 

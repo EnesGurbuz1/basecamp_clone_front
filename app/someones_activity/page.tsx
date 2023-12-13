@@ -24,7 +24,7 @@ const activities: ActivityItem[] = [
     name: 'Elif',
     role: 'Engineer',
     company: 'Firat DIKMEN',
-    // Add avatar if available
+    // Add avatar if available.
   },
   {
     key: '3',

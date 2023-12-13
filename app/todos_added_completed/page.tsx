@@ -20,7 +20,7 @@ const sampleTodos: TodoItem[] = [
 const TodoPage: React.FC = () => {
   const [todos, setTodos] = useState<TodoItem[]>(sampleTodos);
 
-  // Tarih işleme mantığı ile değiştirin
+  // Tarih işleme mantığı ile değiştirin.
   const [currentDate, setCurrentDate] = useState<string>('Sunday, November 26');
 
   return (

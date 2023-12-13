@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import { Switch, DatePicker } from 'antd';
 import moment from 'moment';
-import 'antd/dist/reset.css'; // Import Ant Design styles or customize in your CSS file
+import 'antd/dist/reset.css'; // Import Ant Design st.yles or customize in your CSS file
 
 const OutOfOfficePage: React.FC = () => {
   const [isOut, setIsOut] = useState(false);

@@ -58,7 +58,7 @@ const ActivityPage = () => {
         <div>
           <span 
               className="text-start text-lg leading-6 mt-4 text-gray-600"
-              style={{ fontFamily: '-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"', fontSize: '16px', lineHeight: '24px', color: '#877457' }}
+              style={{ fontFamily: '-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoesssss UI Emoji", "Segoe UI Symbol"', fontSize: '16px', lineHeight: '24px', color: '#877457' }}
             >
               Validation
             </span>

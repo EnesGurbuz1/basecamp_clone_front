@@ -26,7 +26,7 @@ const HomePage: NextPage = () => {
         </div>
       </div>
       <div className="container mx-auto mt-10">
-        {/* Page content goes here */}
+        {/* Page content goes here.. */}
       </div>
     </div>
   );

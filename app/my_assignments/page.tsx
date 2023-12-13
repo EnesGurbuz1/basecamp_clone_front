@@ -24,7 +24,7 @@ const AssignmentsPage: React.FC = () => {
         </nav>
         
         <div className="flex flex-col items-center justify-center h-48 border-2 border-dashed border-gray-300 rounded">
-          <p className="mb-2 text-md text-gray-600">You don't have any assignments right now</p>
+          <p className="mb-2 text-md text-gray-600">You don't have any assignments right now.</p>
           <p className="text-sm text-gray-400">To-dos and cards assigned to you will show up here.</p>
         </div>
         

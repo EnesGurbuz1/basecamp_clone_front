@@ -58,7 +58,7 @@ const Home = () => {
               className={`mx-2 px-4 py-1 ${activeFilter === 'projects' ? 'bg-white rounded-lg shadow' : ''}`}
               onClick={() => handleFilterClick('projects')}
             >
-              Filter by projects
+              Filter by projects.
             </button>
             <button
               className={`px-4 py-1 ${activeFilter === 'people' ? 'bg-white rounded-lg shadow' : ''}`}

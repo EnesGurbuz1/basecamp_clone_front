@@ -11,7 +11,7 @@ const SignUp: React.FC = () => {
     password: "",
   });
 
-  // Input değişikliklerini işleyen fonksiyon
+  // Input değişikliklerini işleyen fonksiyon.
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
