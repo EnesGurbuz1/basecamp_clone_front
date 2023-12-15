@@ -1,3 +1,4 @@
+//
 import { WarningOutlined, InfoCircleOutlined, UserOutlined, SettingOutlined } from '@ant-design/icons';
 import type { NextPage } from 'next';
 
@@ -64,7 +65,7 @@ const AdminPage: NextPage = () => {
                   </div>
                   <div className="flex items-center">
                     <SettingOutlined />
-                    <p className="ml-2">Require two-factor authentication</p>
+                    <p className="ml-2">Require two-factor authentication.</p>
                   </div>
                   <div className="flex items-center">
                     <SettingOutlined />

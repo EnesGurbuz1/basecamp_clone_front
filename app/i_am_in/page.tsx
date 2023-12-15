@@ -3,7 +3,7 @@ import React from 'react';
 import { Switch } from 'antd';
 
 const OutOfOfficePage: React.FC = () => {
-  // You would manage the switch state here, e.g., with React's useState
+  // You would manage the switch state here, e.g., with React's useState.
   // const [isOutOfOffice, setIsOutOfOffice] = useState(false);
 
   return (

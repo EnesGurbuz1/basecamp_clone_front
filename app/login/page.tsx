@@ -34,7 +34,7 @@ const LoginPage: React.FC = () => {
             </button>
             <div className="flex items-center justify-center space-x-2 my-5">
               <div className="w-1/4 h-0.5 bg-gray-300"></div>
-              <div className="text-gray-500">Or, use my email address.</div>
+              <div className="text-gray-500">Or,use my email address.</div>
               <div className="w-1/4 h-0.5 bg-gray-300"></div>
             </div>
             <label

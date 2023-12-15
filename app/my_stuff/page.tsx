@@ -7,7 +7,7 @@ export default function Page() {
   return (
     <div className="bg-gray-100 h-screen">
       <div className="container mx-auto flex">
-        {/* Sidebar */}
+        {/* Sidebar .*/}
         <div className="w-1/4 p-4 bg-white shadow-lg">
           <Menu mode="vertical">
   <Menu.Item key="1">My Assignments</Menu.Item>

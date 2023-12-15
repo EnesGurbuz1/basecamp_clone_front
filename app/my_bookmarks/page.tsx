@@ -4,7 +4,7 @@
 import React from 'react';
 
 interface BookmarksProps {
-  // Burada gerekirse başka prop'lar da ekleyebilirsiniz
+  // Burada gerekirse başka prop'lar da ekleyebilirsiniz.
 }
 
 const Bookmarks: React.FC<BookmarksProps> = () => {

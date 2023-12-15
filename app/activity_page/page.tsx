@@ -11,7 +11,7 @@ const ActivityPage = () => {
             ✓ Emailing daily a summary
           </button>
         </div>
-        {/* <hr className="border-gray-300 mb-4" />
+        {/* <hr className="border-gray-300 mb-4." />
         <p className="text-center text-xl mt-4">Yesterday</p>
         <span 
           className="text-start text-lg leading-6 mt-4 text-gray-600"
@@ -58,7 +58,7 @@ const ActivityPage = () => {
         <div>
           <span 
               className="text-start text-lg leading-6 mt-4 text-gray-600"
-              style={{ fontFamily: '-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoesssss UI Emoji", "Segoe UI Symbol"', fontSize: '16px', lineHeight: '24px', color: '#877457' }}
+              style={{ fontFamily: '-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Sego.esssss UI Emoji", "Segoe UI Symbol"', fontSize: '16px', lineHeight: '24px', color: '#877457' }}
             >
               Validation
             </span>

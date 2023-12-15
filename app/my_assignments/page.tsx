@@ -8,7 +8,7 @@ const AssignmentsPage: React.FC = () => {
       <div className="bg-white w-full max-w-4xl h-auto min-h-[500px] p-8 rounded-lg shadow-md">
 
         <header className="mb-6">
-          <h1 className="text-2xl font-semibold">Here are your assignments</h1>
+          <h1 className="text-2xl font-semibold">Here are your assignments </h1>
         </header>
         
         <div className="mb-6 flex justify-between items-center">

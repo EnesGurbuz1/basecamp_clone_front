@@ -1,5 +1,5 @@
 //mobile compatibility has been implemented.
-//mobil uyumluluk uygulanmıştır.
+//mobil uyumluluk uygulanmıştır..
 
 "use client"
 

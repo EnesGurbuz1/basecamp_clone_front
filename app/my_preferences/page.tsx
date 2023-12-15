@@ -1,5 +1,5 @@
 import React from 'react';
- // Stil dosyasını import ediyoruz
+ // Stil dosyasını import ediyoruz.
 
 const ActivityPage = () => {
   return (

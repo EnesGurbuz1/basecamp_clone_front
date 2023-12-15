@@ -1,4 +1,4 @@
-// pages/YourBoosts.tsx
+// pages/YourBoosts.tsx.
 import React from 'react';
 
 const YourBoosts: React.FC = () => {

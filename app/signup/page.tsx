@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import axios from "axios";
 
 const SignUp: React.FC = () => {
-  // Form verileri için state
+  // Form verileri için state.
   const [formData, setFormData] = useState({
     name: "",
     email: "",

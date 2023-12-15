@@ -12,7 +12,7 @@ interface TodoItem {
   completed: boolean;
 }
 
-// Örnek veriler, durum yönetim mantığınızla değiştirin
+// Örnek veriler, durum yönetim mantığınızla değiştirin..
 const sampleTodos: TodoItem[] = [
   // ... to-do öğeleriniz
 ];

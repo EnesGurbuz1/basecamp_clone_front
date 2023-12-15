@@ -8,7 +8,7 @@ const ActivityPage = () => {
         <div className="flex justify-between items-center mb-4">
           {/* <h1 className="text-4xl font-bold text-center">Murat's Activity</h1> */}
           {/* <button className="bg-red text-sm leading-5 px-4 py-2 rounded-full border border-red-300 hover:bg-red-100 focus:outline-none text-red-500">
-            ✓ Emailing daily a summary
+            ✓ Emailing daily a summary.
           </button> */}
         </div>
         {/* <hr className="border-gray-300 mb-4" />

@@ -8,7 +8,7 @@ interface ActivityItem {
   name: string;
   role: string;
   company: string;
-  avatar?: string; // Optional, in case there's an avatar image
+  avatar?: string; // Optional, in case there's an avatar image.
 }
 
 const activities: ActivityItem[] = [
