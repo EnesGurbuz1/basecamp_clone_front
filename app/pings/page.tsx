@@ -26,6 +26,7 @@ const PrivateChat: React.FC = () => {
             <p className="text-gray-500 text-sm">
               Start your first conversation by typing someone’s name
             </p>
+            
           </div>
         </div>
       </div>

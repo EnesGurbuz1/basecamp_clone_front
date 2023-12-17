@@ -13,7 +13,7 @@ const Home = () => {
   const handleFilterClick = (filter: string) => {
     setActiveFilter(filter);
 
-    // Only show the filter input for 'projects' or 'people'
+    // Only show the filter input for 'projects' or 'people'.
     if (filter === 'projects' || filter === 'people') {
       setShowFilterInput(true);
     } else {

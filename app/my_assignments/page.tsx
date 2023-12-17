@@ -1,3 +1,4 @@
+//
 import React from 'react';
 
 const AssignmentsPage: React.FC = () => {

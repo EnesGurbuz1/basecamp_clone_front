@@ -30,7 +30,7 @@ export default function Page() {
               <Button type="primary">Choose a color</Button>
             </div>
             <div className="my-4">
-              {/* Toggle Switch UI for "Always light." */}
+              {/* Toggle Switch UI for "Always light.." */}
               Always light
             </div>
             <div className="my-4">

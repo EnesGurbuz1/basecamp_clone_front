@@ -8,7 +8,7 @@ const MuratsActivity: React.FC = () => {
         <div className="border-dashed border-2 p-6 rounded-lg">
           <div className="flex flex-col items-center">
             <div className="bg-gray-300 p-4 rounded-full mb-4">
-              <i className="fas fa-bell"></i> {/* This icon should be replaced with the appropriate bell icon... */}
+              <i className="fas fa-bell"></i> {/* This icon should be replaced with the appropriate bell icon.... */}
             </div>
             <p className="mb-4">No activity just yet</p>
             <p className="text-center">

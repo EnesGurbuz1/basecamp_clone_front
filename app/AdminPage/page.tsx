@@ -1,4 +1,4 @@
-//
+//.
 import { WarningOutlined, InfoCircleOutlined, UserOutlined, SettingOutlined } from '@ant-design/icons';
 import type { NextPage } from 'next';
 

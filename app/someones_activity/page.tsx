@@ -3,6 +3,7 @@ import { Input, List, Avatar } from 'antd';
 import { UserOutlined } from '@ant-design/icons';
 import 'antd/dist/reset.css';
 
+
 interface ActivityItem {
   key: string;
   name: string;

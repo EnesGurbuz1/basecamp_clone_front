@@ -4,7 +4,7 @@ import React from 'react';
 import Head from 'next/head';
 
 const Page: React.FC = () => {
-  // Handler for button click (to simulate active state change.)
+  // Handler for button click (to simulate active state change..)
   const handleButtonClick = (e: React.MouseEvent<HTMLButtonElement>) => {
     // Remove active class from all buttons
     document.querySelectorAll('.filter-btn').forEach(btn => {
